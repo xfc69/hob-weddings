@@ -241,8 +241,8 @@ a:hover {
             width: clamp(120px, 20vw, 200px);
             position: absolute;
             z-index: 1;
-            left: clamp(-80px, -15vw, -120px);
-            top: clamp(-70px, -12vw, -110px);
+            left: clamp(-120px, -15vw, -120px);
+            top: clamp(-140px, -12vw, -110px);
             display: none; /* Hide on mobile by default */
         }
         
